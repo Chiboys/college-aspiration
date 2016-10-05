@@ -10,6 +10,7 @@
       <mapping pattern="8月27日" type="PLAIN_TEXT" />
       <mapping pattern="styleOfMine" type="PLAIN_TEXT" />
       <mapping pattern="toKnow2" type="PLAIN_TEXT" />
+      <mapping pattern="conslusion" type="PLAIN_TEXT" />
       <mapping pattern="toKnow3" type="Stylus" />
     </extensionMap>
   </component>
