@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="professDetail" type="EJS" />
       <mapping pattern="schoolDetail" type="EJS" />
+      <mapping pattern="toPostfix" type="JavaScript" />
       <mapping pattern="review" type="JavaScript" />
       <mapping pattern="toKnow" type="PLAIN_TEXT" />
       <mapping pattern="penalty" type="PLAIN_TEXT" />
