@@ -49,11 +49,14 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="D:/Downloads/NodeJS/node.exe">
-      <version-cache version="4.4.3" last-modified="1460461532000" />
+      <version-cache last-modified="0" />
       <npm-package value="D:/Downloads/NodeJS/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="D:/Downloads/NodeJS6/node.exe">
+      <version-cache version="6.9.2" last-modified="1481022618000" />
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="D:/Downloads/NodeJS/node.exe" version="4.4.3" last-modified="1460461532000" />
+    <node-interpreter path="D:/Downloads/NodeJS/node.exe" version="(Does not exist)" last-modified="1482513854996" />
   </component>
 </application>
