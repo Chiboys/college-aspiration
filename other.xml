@@ -53,10 +53,13 @@
       <npm-package value="D:/Downloads/NodeJS/node_modules/npm" />
     </local-interpreter>
     <local-interpreter path="D:/Downloads/NodeJS6/node.exe">
-      <version-cache version="6.9.2" last-modified="1481022618000" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="D:/Downloads/nodejs(6.1.0)/node.exe">
+      <version-cache version="6.10.1" last-modified="1490095916000" />
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="D:/Downloads/NodeJS/node.exe" version="(Does not exist)" last-modified="1486219048859" />
+    <node-interpreter path="D:/Downloads/NodeJS/node.exe" version="(Does not exist)" last-modified="1491910037280" />
   </component>
 </application>
